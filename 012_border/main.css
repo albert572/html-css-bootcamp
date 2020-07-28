@@ -1,0 +1,26 @@
+div {
+    width: 640px;
+    height: 640px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("../999_exercises/dog.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    border: 10px groove orangered;
+    border-radius: 100%;
+}
+
+.dogone {
+      border: 10px dashed orangered;
+}
+
+.dogtwo {
+        border: 10px dotted orangered;
+}
+
+.dogthree {
+          border: 10px double orangered;
+}
